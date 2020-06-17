@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +32,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RunManager">
+    <configuration name="webpack.config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack.config.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.webpack.config.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,25 +70,45 @@
       <updated>1592379092438</updated>
       <workItem from="1592379095880" duration="118000" />
       <workItem from="1592379409529" duration="3587000" />
-      <workItem from="1592399724653" duration="773000" />
+      <workItem from="1592399724653" duration="9175000" />
+      <workItem from="1592412610341" duration="4396000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1233" y="278" key="FileChooserDialogImpl" timestamp="1592379212492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1233" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592379212492" />
-    <state x="922" y="166" key="SettingsEditor" timestamp="1592379436549">
+    <state width="936" height="274" key="GridCell.Tab.0.bottom" timestamp="1592412588925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592379436549" />
-    <state x="1117" y="230" key="search.everywhere.popup" timestamp="1592381305291">
+    <state width="936" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592412588925" />
+    <state width="936" height="274" key="GridCell.Tab.0.center" timestamp="1592412588925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1117" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592381305291" />
+    <state width="936" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592412588925" />
+    <state width="936" height="274" key="GridCell.Tab.0.left" timestamp="1592412588925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592412588925" />
+    <state width="936" height="274" key="GridCell.Tab.0.right" timestamp="1592412588925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592412588925" />
+    <state x="922" y="166" key="SettingsEditor" timestamp="1592416291692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592416291692" />
+    <state x="1117" y="230" key="search.everywhere.popup" timestamp="1592413357149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1117" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592413357149" />
   </component>
 </project>
