@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dRDcg6fP7n0aDj5nOpKSS6lS0y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="" />
+      <created>1592379092438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592379092438</updated>
+      <workItem from="1592379095880" duration="118000" />
+      <workItem from="1592379409529" duration="3587000" />
+      <workItem from="1592399724653" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1233" y="278" key="FileChooserDialogImpl" timestamp="1592379212492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1233" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592379212492" />
+    <state x="922" y="166" key="SettingsEditor" timestamp="1592379436549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592379436549" />
+    <state x="1117" y="230" key="search.everywhere.popup" timestamp="1592381305291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1117" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592381305291" />
+  </component>
+</project>
