@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/excel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/dashboard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/formula.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +75,8 @@
       <workItem from="1592379409529" duration="3587000" />
       <workItem from="1592399724653" duration="9175000" />
       <workItem from="1592412610341" duration="4396000" />
+      <workItem from="1592446413669" duration="4323000" />
+      <workItem from="1592466543852" duration="2917000" />
     </task>
     <servers />
   </component>
@@ -82,6 +87,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1213" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592467398933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1213" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592467398933" />
     <state x="1233" y="278" key="FileChooserDialogImpl" timestamp="1592379212492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,9 +115,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592416291692" />
-    <state x="1117" y="230" key="search.everywhere.popup" timestamp="1592413357149">
+    <state x="1111" y="244" width="672" height="677" key="run.anything.popup" timestamp="1592468556695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1117" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592413357149" />
+    <state x="1111" y="244" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592468556695" />
+    <state x="1117" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1592468073394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1117" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592468073394" />
   </component>
 </project>
