@@ -11,7 +11,8 @@
 
   .row {
     display: flex;
-    min-width: 20px;
+    flex-direction: row;
+    min-height: 20px;
     height: $row-height;
   }
 
@@ -55,16 +56,12 @@
     white-space: nowrap;
     outline: none;
 
+
     &.selected {
-      border: 0;
+      border: none;
       outline: 2px solid #3c74ff;
       z-index: 2;
     }
   }
 
-  //&.selected {
-  //  border: 0;
-  //  outline: 2px solid #3c74ff;
-  //  z-index: 2;
-  //}
 }
