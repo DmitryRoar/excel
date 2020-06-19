@@ -11,9 +11,10 @@
   display: flex;
   justify-content: space-between;
 
-  .input {
+  & .input {
     margin: 0;
     padding: 2px 7px;
+    min-width: 1px;
     color: #000;
     border: 1px solid transparent;
     border-radius: 2px;
@@ -21,7 +22,6 @@
     font-size: 18px;
     line-height: 22px;
     outline: none;
-    min-width: 1px;
 
     &:hover {
       border: 1px solid $border-color;
@@ -33,6 +33,7 @@
   }
 
   .button {
-    @include button();
+    @include button(red);
   }
+
 }

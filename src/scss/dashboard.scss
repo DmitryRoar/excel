@@ -49,7 +49,6 @@
     margin: 0 auto;
   }
 
-
   &__table {
     padding: 1rem;
   }
@@ -58,13 +57,14 @@
     display: flex;
     justify-content: space-between;
     color: #202124;
-    font-weight: 600;
+    font-weight: 500;
+    font-size: 16px;
     margin-bottom: 10px;
     padding: 0 12px;
   }
 
   &__list {
-    @include clear-list
+    @include clear-list;
   }
 
   &__record {
