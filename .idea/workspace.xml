@@ -3,28 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/excel.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/excel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/excel/Excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/excel/Excel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/formula/Formula.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/formula/Formula.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/Table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/table/table.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/table.template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/toolbar/Toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/toolbar/Toolbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/DomListener.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/DomListener.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/ExcelComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/ExcelComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/dashboard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/formula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/formula.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +28,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ANGULAR/angular-blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,7 +71,7 @@
       <workItem from="1592674387860" duration="5768000" />
       <workItem from="1592709064065" duration="4034000" />
       <workItem from="1592721959163" duration="581000" />
-      <workItem from="1592726711790" duration="3512000" />
+      <workItem from="1592726711790" duration="4132000" />
     </task>
     <servers />
   </component>
@@ -108,10 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1213" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592467398933" />
-    <state x="1233" y="278" key="FileChooserDialogImpl" timestamp="1592379212492">
+    <state x="1233" y="278" key="FileChooserDialogImpl" timestamp="1592733948313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1233" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592379212492" />
+    <state x="1233" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592733948313" />
     <state width="936" height="274" key="GridCell.Tab.0.bottom" timestamp="1592412588925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
