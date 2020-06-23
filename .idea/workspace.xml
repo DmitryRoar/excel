@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="708c9d53-5d4b-44d5-9d16-474f7e10c38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
       <change beforePath="$PROJECT_DIR$/src/assets/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/excel.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/excel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/excel/Excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/excel/Excel.js" afterDir="false" />
@@ -25,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
+>>>>>>> 541531d0dfc53d6a8db0c50fd9148adbc9ffac16
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +135,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592416291692" />
+    <state x="1178" y="297" key="git4idea.merge.GitPullDialog" timestamp="1592737449210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1178" y="297" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592737449210" />
     <state x="1111" y="244" width="672" height="677" key="run.anything.popup" timestamp="1592549978075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
