@@ -14,25 +14,28 @@ export function matrix($target, $current) {
   const cols = range(current.col, target.col)
   const rows = range(current.row, target.row)
 
-  const ids = cols.reduce((acc, col) => {
+  return cols.reduce((acc, col) => {
     rows.forEach(row => acc.push(`${row}:${col}`))
     return acc
   }, [])
-  return ids
 }
 
 export function nextSelector(key, {col, row}) {
   const MIN_VALUE = 0
   switch (key) {
-    case 13:
-    case 40: row++
+    case 'Enter':
+    case 'ArrowDown':
+      row++
       break
-    case 9:
-    case 39: col++
+    case 'Tab':
+    case 'ArrowRight':
+      col++
       break
-    case 37: col = col - 1 < MIN_VALUE ? MIN_VALUE : col - 1
+    case 'ArrowLeft':
+      col = col - 1 < MIN_VALUE ? MIN_VALUE : col - 1
       break
-    case 38: row = row - 1 < MIN_VALUE ? MIN_VALUE : row - 1
+    case 'ArrowUp':
+      row = row - 1 < MIN_VALUE ? MIN_VALUE : row - 1
       break
   }
 

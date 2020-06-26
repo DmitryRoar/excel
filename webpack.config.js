@@ -4,6 +4,8 @@ const HTMLWebpackPlugin = require('html-webpack-plugin')
 const CopyPlugin = require('copy-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
+const PORT = process.env.PORT || 5000
+
 const isProd = process.env.NODE_ENV === 'production'
 const isDev = !isProd
 
@@ -44,7 +46,7 @@ module.exports = {
     },
     devtool: isDev ? 'source-map' : false,
     devServer: {
-        port: 5000,
+        port: PORT,
         hot: isDev
     },
     plugins: [
